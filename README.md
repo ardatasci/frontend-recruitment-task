@@ -71,3 +71,9 @@ For the icon 01:
 * **Pay attention** to things like good usage of Vue.js, Javascript and Highcharts, code separation, readability, maintainability, and error handling as well as lazy loading, caching and storage.
 * The layout shall be **Responsive**.
 * All the work done shall be documented. A user guide (How to run ?) shall be included in the documentation.
+
+
+### Submission
+
+You will commit your code to a public github repository. (If you prefer a private repository, you may grant access to user *ardatasci*)
+
