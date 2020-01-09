@@ -33,14 +33,18 @@ You may access the data using github endpoints as below.
 #### Current Weather API
 
 Ankara :  [https://raw.githubusercontent.com/ardatasci/frontend-recruitment-task/master/ankaraCurrentWeather.json](https://raw.githubusercontent.com/ardatasci/frontend-recruitment-task/master/ankara5DaysWeather.json)
+
 Istanbul : [https://raw.githubusercontent.com/ardatasci/frontend-recruitment-task/master/istanbulCurrentWeather.json]
+
 Izmir : [https://raw.githubusercontent.com/ardatasci/frontend-recruitment-task/master/izmirCurrentWeather.json]
 
 
 #### 5 Days Forecast Weather API
 
 Istanbul : [https://raw.githubusercontent.com/ardatasci/frontend-recruitment-task/master/istanbul5DaysWeather.json](https://raw.githubusercontent.com/ardatasci/frontend-recruitment-task/master/ankara5DaysWeather.json)
+
 Ankara : [https://raw.githubusercontent.com/ardatasci/frontend-recruitment-task/master/ankara5DaysWeather.json](https://raw.githubusercontent.com/ardatasci/frontend-recruitment-task/master/ankara5DaysWeather.json)
+
 Izmir : [https://raw.githubusercontent.com/ardatasci/frontend-recruitment-task/master/izmir5DaysWeather.json](https://raw.githubusercontent.com/ardatasci/frontend-recruitment-task/master/ankara5DaysWeather.json)
 
 #### Icons
