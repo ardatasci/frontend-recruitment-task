@@ -22,7 +22,7 @@ for current city.
 
 A sample layout for the application is shown below. You are free to make changes in the layout. You may use any styling template you want. (Colors, fonts, icons etc.)
 
-
+![](layout.png?raw=true)
 
 
 
