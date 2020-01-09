@@ -66,4 +66,4 @@ For the icon 01:
 * All the charts in the application will be rendered using **Highcharts** libraries https://www.highcharts.com/
 * **Pay attention** to things like good usage of Vue.js, Javascript and Highcharts, code separation, readability, maintainability, and error handling as well as lazy loading, caching and storage.
 * The layout shall be **Responsive**.
-* All the work done and shall be documented. A user guide (How to run ?) shall be included in the documentaiton.
+* All the work done shall be documented. A user guide (How to run ?) shall be included in the documentation.
